@@ -1,2 +1,2 @@
-DdmDroidClient-new
-==================
+DdmDroidClient
+==============
