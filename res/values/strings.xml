@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">DdmDroidClient</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Fetch REST/JSON data</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>
