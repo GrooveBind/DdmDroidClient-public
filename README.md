@@ -1,2 +1,2 @@
-DdmDroidClient-public
-=====================
+DdmDroidClient
+==============
